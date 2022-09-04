@@ -1,12 +1,10 @@
 import './App.css';
-import Header from './Components/Header';
-import Blogs from './Components/Blogs';
+import Buttons from './Components/Buttons';
 
 function App() {
   return (
     <>
-    <Header></Header>
-    <Blogs></Blogs>
+    <Buttons></Buttons>
     </>
   );
 }
